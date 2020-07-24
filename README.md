@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+
+### 📫 How to reach me: 
+- fbc623@gmail.com
+- https://www.linkedin.com/in/fabiano-bispo-canedo-422738109/
+
 <!--
 **fabianoobispo/fabianoobispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
