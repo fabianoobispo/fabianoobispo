@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning
+- javascript
+- HTML
+- Css
+- c#
 
 
 ### 📫 How to reach me: 
