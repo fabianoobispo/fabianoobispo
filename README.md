@@ -6,6 +6,7 @@
 - HTML
 - Css
 - c#
+- php
 
 
 ### 📫 How to reach me: 
