@@ -3,9 +3,10 @@
 
 ### 🌱 I’m currently learning
 - javascript
+- react
+- nodeJs 
 - HTML
 - Css
-- c#
 - php
 
 
