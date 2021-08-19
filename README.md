@@ -11,7 +11,7 @@
 
 
 ### 📫 How to reach me: 
-- fbc623@gmail.com
+- fabianoobispo@icloud.com
 - https://www.linkedin.com/in/fabiano-bispo-canedo-422738109/
 
 <!--
