@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/fabianoobispo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabianoobispo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoobispo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabianoobispo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoobispo&layout=compact&theme=react&langs_count=5&theme=dracula"/>
 </div>
 	
 ### Tecnologias	
